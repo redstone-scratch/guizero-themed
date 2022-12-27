@@ -1,4 +1,4 @@
-from tkinter import Frame
+from tkinter.ttk import Frame
 from . import utilities as utils
 from .base import ContainerWidget
 
